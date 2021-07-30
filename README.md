@@ -1,1 +1,1 @@
-# color-picker
+https://airkross.github.io/color-picker/
